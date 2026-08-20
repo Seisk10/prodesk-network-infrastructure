@@ -1,3 +1,5 @@
+🇧🇷 Português | [🇬🇧 English](README.en.md)
+
 # ProDesk — Infraestrutura de Rede Corporativa
 
 Projeto de infraestrutura de rede para a empresa fictícia **ProDesk**, desenvolvido em Cisco Packet Tracer como parte da unidade curricular *Ambientes Computacionais e Conectividade* (UNISUL). Posteriormente revisado e reforçado com uma camada completa de hardening de segurança, com foco em mitigação de ataques comuns de rede local (Camada 2 e Camada 3).
