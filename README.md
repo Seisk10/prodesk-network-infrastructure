@@ -1,4 +1,4 @@
-[🇧🇷 Português](README.md) | 🇬🇧 English
+[🇧🇷 Português](README-PT-BT.md) | 🇬🇧 English
 
 # ProDesk — Corporate Network Infrastructure
 
