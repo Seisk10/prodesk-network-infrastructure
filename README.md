@@ -153,7 +153,7 @@ By default, IOS DHCP Snooping inserts option 82 (relay agent information) into p
 This README covers the project's final state. For anyone wanting to dig into the design process and technical incidents throughout development (including approaches tested and discarded), see:
 
 - **[docs/en/DEVELOPMENT-HISTORY.md](docs/en/DEVELOPMENT-HISTORY.md)** — full record of the original planning phase: why each architectural decision was made (VLANs, `/26`, OSPF, centralized DHCP), including the attempt to move routing to Layer 3 switches at the distribution layer, tested and reverted in favor of the current L2 + router-on-a-stick architecture.
-- **[docs/en/TROUBLESHOOTING.md](docs/en/TROUBLESHOOTING.md)** — every real incident faced in the project, across both development phases (original design and later security hardening): symptom, diagnosis, and fix.
+- **[docs/en/TROUBLESHOOTING.md](docs/en/TROUBLESHOOTING-EN.md)** — every real incident faced in the project, across both development phases (original design and later security hardening): symptom, diagnosis, and fix.
 
 ---
 
